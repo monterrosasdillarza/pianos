@@ -15,11 +15,10 @@
 
     
 	
-    <author href="https://build.phonegap.com" email="support@phonegap.com">
-        ERIKA CAMACHO MOTOLINIA
-    </author>
-	
-		<gap:plugin name="cordova-plugin-media" version="1.0"/> 
+    <author href="https://build.phonegap.com" email="jacob.monterrosas@gmail.com">
+ JacobMonterrosasDillarza4H
+</author>
+		<plugin name="cordova-plugin-media" spec="~5.0.2" />
 		<!-- PARA QUE EL DISPOSITIVO SIEMPRE ESTE DE FORMA HORIZONTAL-->
 		<preference name="orientation" value="landscape" />
 </widget>
