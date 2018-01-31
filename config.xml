@@ -19,7 +19,7 @@
         ERIKA CAMACHO MOTOLINIA
     </author>
 	
-		<gap:plugin name="com.rjfun.cordova.plugin.lowlatencyaudio" version="1.0"/> 
+		<gap:plugin name="cordova-plugin-media" version="1.0"/> 
 		<!-- PARA QUE EL DISPOSITIVO SIEMPRE ESTE DE FORMA HORIZONTAL-->
 		<preference name="orientation" value="landscape" />
 </widget>
