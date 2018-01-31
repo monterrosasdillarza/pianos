@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>TECLADO</name>
+
+    <description>
+        utilizacion del pluging de sonidos
+    </description>
+
+    <preference name="phonegap-version" value="3.1.0" />
+	
+    <author href="https://build.phonegap.com" email="support@phonegap.com">
+        ERIKA CAMACHO MOTOLINIA
+    </author>
+	
+		<gap:plugin name="com.rjfun.cordova.plugin.lowlatencyaudio" version="1.0"/> 
+		<!-- PARA QUE EL DISPOSITIVO SIEMPRE ESTE DE FORMA HORIZONTAL-->
+		<preference name="orientation" value="landscape" />
+</widget>
+© 2018 GitHub, Inc.
